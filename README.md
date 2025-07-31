@@ -3,3 +3,5 @@
 ## Dataset: https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025
 
 Material para estudo e demonstração de experiencia com a ferramenta
+
+Link para visualizar o BI : https://vitorpielak.github.io/criancas_indianas_pbi/
